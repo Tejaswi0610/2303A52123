@@ -1,0 +1,124 @@
+{
+  "notifications": [
+    {
+      "ID": "5d5e825b-115c-4569-9dfe-6158ebdf64d4",
+      "Type": "Placement",
+      "Message": "Alphabet Inc. Class C hiring",
+      "Timestamp": "2026-06-18 01:22:56"
+    },
+    {
+      "ID": "56e79654-5ea3-4ae1-9cee-3d6702f557d7",
+      "Type": "Result",
+      "Message": "project-review",
+      "Timestamp": "2026-06-17 23:22:40"
+    },
+    {
+      "ID": "a1573b89-6c8f-4b0d-9d55-638615dd0151",
+      "Type": "Event",
+      "Message": "induction",
+      "Timestamp": "2026-06-17 19:22:24"
+    },
+    {
+      "ID": "59333964-794d-4d75-a964-1eacff31010e",
+      "Type": "Event",
+      "Message": "induction",
+      "Timestamp": "2026-06-17 15:22:08"
+    },
+    {
+      "ID": "2a100511-367c-43fd-b4dd-c0635f304f1f",
+      "Type": "Event",
+      "Message": "farewell",
+      "Timestamp": "2026-06-18 02:51:52"
+    },
+    {
+      "ID": "66a9f292-571d-4ecd-90e3-205a593e51f4",
+      "Type": "Event",
+      "Message": "induction",
+      "Timestamp": "2026-06-17 20:21:36"
+    },
+    {
+      "ID": "6f423d36-46e2-48f8-95f6-b519916db913",
+      "Type": "Result",
+      "Message": "internal",
+      "Timestamp": "2026-06-17 06:51:20"
+    },
+    {
+      "ID": "ca836e10-00f6-4d77-9f75-31ce6aef051f",
+      "Type": "Placement",
+      "Message": "Nvidia Corporation hiring",
+      "Timestamp": "2026-06-17 16:51:04"
+    },
+    {
+      "ID": "ad48fc8f-17d4-45a8-9440-a358fb49fc28",
+      "Type": "Event",
+      "Message": "traditional-day",
+      "Timestamp": "2026-06-17 17:50:48"
+    },
+    {
+      "ID": "1bca0029-aeae-41ac-aa19-65aad5b23260",
+      "Type": "Event",
+      "Message": "traditional-day",
+      "Timestamp": "2026-06-18 02:50:32"
+    },
+    {
+      "ID": "872bc08e-9495-442e-9191-96bbc099d39f",
+      "Type": "Placement",
+      "Message": "CSX Corporation hiring",
+      "Timestamp": "2026-06-17 22:20:16"
+    },
+    {
+      "ID": "52e281cb-a643-4273-b491-00bd41e582c8",
+      "Type": "Event",
+      "Message": "farewell",
+      "Timestamp": "2026-06-18 05:20:00"
+    },
+    {
+      "ID": "f07be638-59e5-4605-a4e4-be17a75dbd69",
+      "Type": "Result",
+      "Message": "mid-sem",
+      "Timestamp": "2026-06-18 05:49:44"
+    },
+    {
+      "ID": "fad88f87-dc45-4e16-a446-5fbe43f430a9",
+      "Type": "Placement",
+      "Message": "Advanced Micro Devices Inc. hiring",
+      "Timestamp": "2026-06-18 06:19:28"
+    },
+    {
+      "ID": "97426788-80ee-4c95-9116-57cb161fbe24",
+      "Type": "Event",
+      "Message": "induction",
+      "Timestamp": "2026-06-18 03:19:12"
+    },
+    {
+      "ID": "ff209179-812a-4c1f-9be9-b4cea825ce56",
+      "Type": "Result",
+      "Message": "mid-sem",
+      "Timestamp": "2026-06-17 18:18:56"
+    },
+    {
+      "ID": "4fd10a57-c966-4d63-a769-28fc1feab168",
+      "Type": "Result",
+      "Message": "project-review",
+      "Timestamp": "2026-06-17 08:18:40"
+    },
+    {
+      "ID": "e068de96-9d40-4975-b5b3-e7486b2d05f8",
+      "Type": "Placement",
+      "Message": "Alphabet Inc. Class C hiring",
+      "Timestamp": "2026-06-17 06:48:24"
+    },
+    {
+      "ID": "0b47340d-48be-4efd-9a2b-c6437a9b6377",
+      "Type": "Result",
+      "Message": "project-review",
+      "Timestamp": "2026-06-17 18:48:08"
+    },
+    {
+      "ID": "472c0700-9b21-42d3-8ed3-bfb847415d09",
+      "Type": "Result",
+      "Message": "external",
+      "Timestamp": "2026-06-17 20:17:52"
+    }
+  ]
+}
